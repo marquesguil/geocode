@@ -1,5 +1,0 @@
-geopy
-fiona==1.6.0
-GDAL==1.11.2
-geopandas==0.1.0
-pandas
